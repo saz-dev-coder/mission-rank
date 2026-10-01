@@ -1,0 +1,6 @@
+{
+  "name": "Mission Rank",
+  "description": "Your exam prep, planned one day at a time. Personal study-planning and progress-tracking for Indian government exam aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

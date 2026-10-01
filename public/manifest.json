@@ -1,0 +1,22 @@
+{
+  "short_name": "Mission Rank",
+  "name": "Mission Rank - Govt Exam Study Planner",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Your exam prep, planned one day at a time. Personal study-planning and progress-tracking for Indian government exam aspirants."
+}
